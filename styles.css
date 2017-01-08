@@ -1,0 +1,149 @@
+*{
+    font-family: arial;
+    margin: 0;
+}
+
+.navbar {
+    width: 100%;
+    height: 50px;
+    position: fixed;
+    background-color: #EEEEEE;
+}
+
+.container {
+    padding-top: 15px;
+    padding-left: 10px;
+}
+
+.title, .nav_title {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.nav_title {
+    margin-bottom: 30px;
+    margin-left: 950px;
+
+}
+
+.nav_list {
+    display: inline-block;
+    padding-left: 15px;
+    color: purple;
+}
+
+.nav_link {
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.magnifying-glass {
+    width: 25px;
+}
+
+.search_button {
+    vertical-align: bottom;
+    width: 38px;
+    height: 34px;
+    background: white;
+    border: 1px solid #E6E6E6;
+    border-radius: 4px;
+}
+
+main {
+    padding-left: 80px;    
+}
+
+.form {
+    position: relative;
+    top: 100px;
+
+}
+
+input {
+    width: 550px;
+    height: 30px;
+    padding-left: 10px;
+    font-size: 15px;
+    border: 1px solid #E6E6E6;
+    border-radius: 4px;
+}
+
+.pages {
+    border: 1px solid #E6E6E6;
+    border-radius: 4px;
+    position: relative;
+    padding: 7px 0 7px 0;
+    width: 305px;
+    top: 140px;
+}
+
+.pages_button {
+    display: inline-block;
+    text-decoration: none;
+    font-size: 17px;
+    color: black;
+    text-align: center;
+    padding-right: 15px;
+    padding-left: 15px;   
+}
+
+.pages_display {
+    padding: 7px 15px 7px 15px;
+    border-right: 1px solid #E6E6E6;
+    border-left: 1px solid #E6E6E6;    
+}
+
+.jobs {
+    position: relative;
+    top: 200px;
+}
+
+.jobs_detail {
+    list-style-type: none;
+    margin-top: 200px;
+    margin-left: -35px;
+    font-size: 17px;
+}
+
+.jobs_date {
+    margin-bottom: 15px;
+    color: grey;
+}
+
+.jobs_title {
+    color: purple;
+    font-weight: bold;
+    text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
