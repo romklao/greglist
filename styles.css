@@ -20,9 +20,13 @@
     vertical-align: top;
 }
 
+.title {
+    font-size: 18px;
+}
+
 .nav_title {
     margin-bottom: 30px;
-    margin-left: 950px;
+    margin-left: 920px;
 
 }
 
@@ -34,6 +38,7 @@
 
 .nav_link {
     text-decoration: none;
+    font-size: 18px;
 }
 
 a:hover {
@@ -60,7 +65,7 @@ main {
 }
 
 input {
-    width: 550px;
+    width: 420px;
     height: 30px;
     padding-left: 10px;
     font-size: 18px;
