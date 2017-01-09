@@ -50,35 +50,30 @@ a:hover {
     height: 34px;
     background: white;
     border: 1px solid #E6E6E6;
-    border-radius: 4px;
+    border-radius: 3px;
 }
 
 main {
-    padding-left: 80px;    
-}
-
-.form {
-    position: relative;
-    top: 100px;
-
+    position: relative;   
+    padding-left: 80px; 
+    top: 110px;
 }
 
 input {
     width: 550px;
     height: 30px;
     padding-left: 10px;
-    font-size: 15px;
+    font-size: 18px;
     border: 1px solid #E6E6E6;
-    border-radius: 4px;
+    border-radius: 3px;
 }
 
 .pages {
     border: 1px solid #E6E6E6;
-    border-radius: 4px;
-    position: relative;
+    border-radius: 3px;
     padding: 7px 0 7px 0;
     width: 305px;
-    top: 140px;
+    margin-top: 33px;
 }
 
 .pages_button {
@@ -97,14 +92,9 @@ input {
     border-left: 1px solid #E6E6E6;    
 }
 
-.jobs {
-    position: relative;
-    top: 200px;
-}
-
 .jobs_detail {
     list-style-type: none;
-    margin-top: 200px;
+    margin-top: 50px;
     margin-left: -35px;
     font-size: 17px;
 }
@@ -115,7 +105,7 @@ input {
 }
 
 .jobs_title {
-    color: purple;
+    color: blue;
     font-weight: bold;
     text-decoration: none;
     margin-left: 5px;
